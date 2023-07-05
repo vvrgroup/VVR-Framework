@@ -1,4 +1,5 @@
 # VVR-Framework
+C++ API of useful utilities (mathematics, graphics, etc.)
 
 ## Geometric classes
 | Library | Details | Use |
